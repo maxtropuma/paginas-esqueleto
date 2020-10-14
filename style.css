@@ -1,6 +1,7 @@
 /* CSS files add styling rules to your content */
 
-
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 body {
   /*font-family: helvetica, arial, sans-serif;*/
   margin: 0em;
@@ -14,8 +15,4 @@ body {
   background-position:center;
 }
 
-.pie{
-  height:150px;
-  text-aling:center;
-  background:darken;
-}
+
