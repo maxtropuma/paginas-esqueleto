@@ -1,5 +1,6 @@
 /* CSS files add styling rules to your content */
 
+
 body {
   /*font-family: helvetica, arial, sans-serif;*/
   margin: 0em;
@@ -15,4 +16,6 @@ body {
 
 .pie{
   height:150px;
+  text-aling:center;
+  background:darken;
 }
