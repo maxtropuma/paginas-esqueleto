@@ -7,6 +7,10 @@ body {
 
 .cover{
   height:400px;
-  background:red;
+  background-image:url(https://cdn.glitch.com/9da2c17f-90db-4db0-adb8-46dd167448dd%2Ffondo_imgen.jpg?v=1602644044505);
   color:white;
+  background-size:cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode:darken;
 }
