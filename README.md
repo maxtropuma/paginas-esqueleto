@@ -21,17 +21,11 @@ Where you'll write the content of your website.
 
 ### ← style.css
 
-CSS files add styling rules to your content.
+### ← bootstrap
+ d-fel , nav and NavBar
 
-### ← script.js
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
+Made by [Glitch]
 -------------------
 
 \ ゜o゜)ノ
